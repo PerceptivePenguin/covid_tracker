@@ -1,0 +1,1 @@
+A dashboard showing the real-time status of Coronavirus infections worldwide
